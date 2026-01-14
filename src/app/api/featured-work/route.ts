@@ -2,18 +2,18 @@ import { NextResponse } from "next/server";
 
 const featureWork = [
     {
-        title: "Scalable Analytics Platform",
-        description: "Production-grade data pipelines using n8n orchestration with ClickHouse for high-throughput analytics and Metabase for self-service BI.",
-        roles: ["Data Engineer", "Backend Engineer"],
+        title: "Realtime Object Detection",
+        description: "Real-time object detection using EfficientDet-Lite model, demonstrating practical AI implementation in the browser.",
+        roles: ["AI Engineer", "Computer Vision"],
         image: "/images/case-studies/object-detection-hero.jpeg",
-        url: "/case-studies/analytics-platform"
+        url: "/case-studies/object-detection"
     },
     {
-        title: "Event-Driven Object Detection",
-        description: "Near real-time object detection system using event-driven architecture with Kafka, Cloud Run, and cost-controlled GPU scaling.",
-        roles: ["AI Engineer", "Platform Engineer"],
+        title: "Realtime Image Classification",
+        description: "Real-time image classification using deep learning models to categorize objects and scenes.",
+        roles: ["AI Engineer", "Machine Learning"],
         image: "/images/case-studies/image-classification-hero.jpg",
-        url: "/case-studies/object-detection-architecture"
+        url: "/case-studies/image-classification"
     }
 ]
 
