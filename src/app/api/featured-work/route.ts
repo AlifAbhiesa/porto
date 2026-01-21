@@ -14,6 +14,13 @@ const featureWork = [
         roles: ["AI Engineer", "Machine Learning"],
         image: "/images/case-studies/image-classification-hero.jpg",
         url: "/case-studies/image-classification"
+    },
+    {
+        title: "Face Landmark Detection",
+        description: "MediaPipe-powered face landmark detection that extracts facial feature points in real-time. Displays landmark output numbers at the bottom of the camera frame for database storage and subsequent face matching.",
+        roles: ["AI Engineer", "Computer Vision"],
+        image: "/images/case-studies/face-pattern.webp",
+        url: "/case-studies/face-landmark"
     }
 ]
 
