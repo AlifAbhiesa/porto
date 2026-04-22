@@ -68,6 +68,11 @@ const projectOverview = {
         { name: "Scalable Analytics Platform", url: "/case-studies/analytics-platform" },
         { name: "Event-Driven Object Detection", url: "/case-studies/object-detection-architecture" },
         { name: "Platform Engineering & Infrastructure", url: "/case-studies/platform-engineering" },
+        { name: "OCR Solutions for Retail", url: "/case-studies/ocr-retail" },
+        { name: "Leading an End-to-End AI Retail Project", url: "/case-studies/ai-retail-leadership" },
+    ],
+    insights: [
+        { name: "AI & LLM Insights — Q&A from Experience", url: "/insights" },
     ],
 };
 
