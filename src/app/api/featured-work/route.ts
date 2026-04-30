@@ -21,6 +21,13 @@ const featureWork = [
         roles: ["AI Engineer", "Computer Vision"],
         image: "/images/case-studies/face-pattern.webp",
         url: "/case-studies/face-landmark"
+    },
+    {
+        title: "Image Similarity Benchmark",
+        description: "Compare two images using MediaPipe Image Embedder to measure visual similarity with cosine similarity scoring — fully in-browser processing.",
+        roles: ["AI Engineer", "Computer Vision"],
+        image: "/images/case-studies/image-classification-hero.jpg",
+        url: "/case-studies/image-embedder"
     }
 ]
 
