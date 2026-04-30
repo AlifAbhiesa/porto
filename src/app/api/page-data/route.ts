@@ -72,6 +72,7 @@ const projectOverview = {
         { name: "Leading an End-to-End AI Retail Project", url: "/case-studies/ai-retail-leadership" },
     ],
     insights: [
+        { name: "How AI Understands Language — Interactive NLP Explorer", url: "/nlp-explorer" },
         { name: "AI & LLM Insights — Q&A from Experience", url: "/insights" },
     ],
 };
