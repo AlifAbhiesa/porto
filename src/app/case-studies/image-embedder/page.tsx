@@ -2,6 +2,7 @@ import Divider from "@/app/components/divider"
 import HeroSection from "@/app/components/case-studies/image-embedder/hero-section"
 import Description from "@/app/components/case-studies/image-embedder/description"
 import Demo from "@/app/components/case-studies/image-embedder/demo"
+import VectorSearch from "@/app/components/case-studies/image-embedder/vector-search"
 import RelatedWork from "@/app/components/case-studies/shared/related-work"
 
 const ImageEmbedderPage = () => {
@@ -12,6 +13,8 @@ const ImageEmbedderPage = () => {
       <Description />
       <Divider />
       <Demo />
+      <Divider />
+      <VectorSearch />
       <Divider />
       <RelatedWork
         title="Face Landmark Detection"
